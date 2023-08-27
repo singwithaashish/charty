@@ -1,4 +1,7 @@
-# harty is a simple chartJS application to compare 2 line Graph
+# Charty is a simple chartJS application to compare 2 line Graph
+
+## Live DEMO
+* https://strong-puppy-cae03c.netlify.app/
 
 
 ## Screenshots
